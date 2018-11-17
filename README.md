@@ -1,6 +1,6 @@
 # PyDumper
 Py script dump market data
 
-##How-to
+## How-to
 
 python dumper.py -c <your_config_json_file>
